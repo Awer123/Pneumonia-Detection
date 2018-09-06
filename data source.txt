@@ -1,0 +1,4 @@
+https://www.kaggle.com/peterchang77/exploratory-data-analysis
+
+https://github.com/mdai/ml-lessons/blob/master/lesson3-rsna-pneumonia-detection-kaggle.ipynb
+
