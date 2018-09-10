@@ -1,0 +1,11 @@
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+
+https://www.kaggle.com/peterchang77/exploratory-data-analysis
+
+https://github.com/mdai/ml-lessons/blob/master/lesson2-lung-xrays-segmentation.ipynb
+
+https://github.com/mdai/ml-lessons/blob/master/lesson3-rsna-pneumonia-detection-kaggle.ipynb
+
+https://github.com/mdai/ml-lessons/blob/master/lesson3-rsna-pneumonia-detection-mdai-client-lib.ipynb
+
+https://public.md.ai/annotator/project/LxR6zdR2/workspace
